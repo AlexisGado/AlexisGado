@@ -4,7 +4,7 @@
 - 🤓 Studied machine learning, computer vision, software, optimization, operation research at **École des Ponts et Chaussées**
 - 🧐 Interested in game development, software security
 
-Typescript (React) / C++ / Python / Julia / SQL / HTML-CSS / 
+Typescript (React) / C++ / Python / Julia / SQL / HTML-CSS 
 
 ##### ⚠️ Website in progress ⚠️
 
