@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hey I'm Alexis
 
-<!--
-**MisterGado/MisterGado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👨🏽‍💻 Intern at [LocalSolver](https://www.localsolver.com) as a software and optimization engineer
+- 🤓 Studied machine learning, computer vision, software, optimization, operation research at **École des Ponts et Chaussées**
+- 🧐 Interested in game development, software security
 
-Here are some ideas to get you started:
+Typescript (React) / C++ / Python / Julia / SQL / HTML-CSS / 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##### ⚠️ Website in progress ⚠️
+
+##### Relevant projects publicly available
+
+- [Forum Trium website](https://forum-trium.com) built from scratch as a freelance job
+- [Seam Carving algorithm and applications](https://github.com/MisterGado/SeamCarving), a funny algorithm to resize images with different ratios
+- [A serious game about energy optimization at local scale](https://github.com/MisterGado/microgrid-manager)
+- [A pretty application of Poisson's equation](https://github.com/MisterGado/FFT_Poisson). Problem solved with fast Fourier transform and applied to contrast augmentation and smooth overlays.
