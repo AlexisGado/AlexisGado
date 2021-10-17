@@ -1,7 +1,7 @@
 ### Hey I'm Alexis 🤟🏽
 
 - 👨🏽‍💻 Intern at [LocalSolver](https://www.localsolver.com) as a software and optimization engineer
-- 🤓 Studied machine learning, computer vision, software, optimization, operation research at **École des Ponts et Chaussées**
+- 🤓 Studied machine learning, computer vision, software, optimization, operation research and a lot of maths at **École des Ponts et Chaussées**
 - 🧐 Interested in game development, software security
 
 Typescript (React) / C++ / Python / Julia / SQL / HTML-CSS 
