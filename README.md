@@ -1,4 +1,4 @@
-### Hey I'm Alexis
+### Hey I'm Alexis 🤟🏽
 
 - 👨🏽‍💻 Intern at [LocalSolver](https://www.localsolver.com) as a software and optimization engineer
 - 🤓 Studied machine learning, computer vision, software, optimization, operation research at **École des Ponts et Chaussées**
