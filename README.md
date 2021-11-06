@@ -15,3 +15,4 @@ Typescript (React) / C++ / Python / Julia / SQL / HTML-CSS
 - [A serious game about energy optimization at local scale](https://github.com/MisterGado/microgrid-manager)
 - [A small paper on error correction codes](https://github.com/MisterGado/error_correction_codes) and a small implementation in python. 
 - [A pretty application of Poisson's equation](https://github.com/MisterGado/FFT_Poisson). Problem solved with fast Fourier transform and applied to contrast augmentation and smooth overlays.
+- [A kaggle project about crime classification](https://github.com/MisterGado/CrimeSF) where we experimented with multiple ML techniques to obtain decent results.
