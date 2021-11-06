@@ -16,3 +16,4 @@ Typescript (React) / C++ / Python / Julia / SQL / HTML-CSS
 - [A short paper on error correction codes](https://github.com/MisterGado/error_correction_codes) and a basic implementation in python. 
 - [A pretty application of Poisson's equation](https://github.com/MisterGado/FFT_Poisson). Problem solved with fast Fourier transform and applied to contrast augmentation and smooth overlays.
 - [A kaggle project about crime classification](https://github.com/MisterGado/CrimeSF) where we experimented with multiple ML techniques to obtain decent results.
+- [3D point cloud reconstruction and mesh optimization with INRIA](https://github.com/MisterGado/3D_pointcloud_reconstruction_and_mesh_optimization). Using different modern techniques and libraries to get a "simple" 3D mesh from a set of 2D pictures.
