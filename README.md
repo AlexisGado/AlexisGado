@@ -1,10 +1,11 @@
 ### Hey I'm Alexis 🤟🏽
 
-- 👨🏽‍💻 Intern at [LocalSolver](https://www.localsolver.com) as a software and optimization engineer
-- 🤓 Studied machine learning, computer vision, software, optimization, operation research and a lot of maths at **École des Ponts et Chaussées**
+- 👨🏽‍💻 Intern at [Wiremind](https://www.wiremind.io) as a full stack software engineer
+- 🤓🤓 Studying software systems at **Columbia UNiversity**
+- 🤓 Studied software, machine learning, computer vision, optimization, operation research and a lot of maths at **École des Ponts et Chaussées**
 - 🧐 Interested in game development, software security
 
-Typescript (React) / C++ / Python / Julia / SQL / HTML-CSS 
+Typescript (React, Angular) / C++ / Python / Julia / SQL / HTML-CSS / Go / Ruby / Haskell / OCaml
 
 ##### ⚠️ Website in progress ⚠️
 
