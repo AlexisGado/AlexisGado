@@ -1,8 +1,8 @@
 ### Hey I'm Alexis 🤟🏽
 
 - 👨🏽‍💻 Intern at [Wiremind](https://www.wiremind.io) as a full stack software engineer
-- 🤓🤓 Studying software systems at **Columbia UNiversity**
-- 🤓 Studied software, machine learning, computer vision, optimization, operation research and a lot of maths at **École des Ponts et Chaussées**
+- 🤓 Studying software systems at **Columbia University**
+- 👨‍🎓 Studied software, machine learning, computer vision, optimization, operation research and a lot of maths at **École des Ponts et Chaussées**
 - 🧐 Interested in game development, software security
 
 Typescript (React, Angular) / C++ / Python / Julia / SQL / HTML-CSS / Go / Ruby / Haskell / OCaml
