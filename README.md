@@ -7,8 +7,6 @@
 
 Typescript (React, Angular) / C++ / Python / Julia / SQL / HTML-CSS / Go / Ruby / Haskell / OCaml
 
-##### ⚠️ Website in progress ⚠️
-
 ##### Relevant projects publicly available
 
 - [Forum Trium website](https://forum-trium.com) built from scratch as a freelance job
