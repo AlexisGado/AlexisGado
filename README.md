@@ -1,10 +1,10 @@
 ### Hey I'm Alexis 🤟🏽
 
-- 👨🏽‍💻 Intern at [Wiremind](https://www.wiremind.io) as a full stack software engineer
-- 🤓 Studying software systems at **Columbia University**
+- 👨🏽‍💻 AI Software Engineer Intern at [BCG X](https://www.bcg.com/x)
+- 🤓 Studying Software Systems at **Columbia University**
 - 👨‍🎓 Studied software, machine learning, computer vision, optimization, operation research and a lot of maths at **École des Ponts et Chaussées**
 
-Typescript (React, Angular) / C / C++ / Python / Julia / SQL / HTML-CSS / Go / Ruby / Haskell / OCaml
+Typescript (React, Angular) / C / C++ / Python / Julia / SQL / HTML-CSS / Go / Haskell / OCaml
 
 ##### Relevant projects publicly available
 
