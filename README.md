@@ -1,10 +1,10 @@
 ### Hey I'm Alexis 🤟🏽
 
-- 👨🏽‍💻 AI Software Engineer Intern at [BCG X](https://www.bcg.com/x)
-- 🤓 Studying Software Systems at **Columbia University** (MS)
+- 👨🏽‍💻 AI Engineer at [BCG X](https://www.bcg.com/x)
+- 🤓 Studied Software Systems at **Columbia University** (MS)
 - 👨‍🎓 Studied software, machine learning, computer vision, optimization, operation research and a lot of maths at **École des Ponts et Chaussées** (BS + MS)
 
-Typescript (React, Angular) / C / C++ / Python / Julia / SQL / HTML-CSS / Go / Haskell / OCaml
+Python / Typescript (React, Angular, Svelte) / C / C++ / Julia / SQL / HTML-CSS / Haskell / OCaml
 
 ##### Relevant projects publicly available
 
