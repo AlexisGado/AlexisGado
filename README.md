@@ -1,4 +1,4 @@
-### Hey I'm Alexis 🤟🏽
+### Hey, I'm Alexis 🥳
 
 - 👨🏽‍💻 AI Engineer at [BCG X](https://www.bcg.com/x)
 - 🤓 Studied Software Systems at **Columbia University** (MS)
